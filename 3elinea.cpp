@@ -5,7 +5,7 @@ char tablero[3][3] = {{'1','2','3'}, {'4','5','6'}, {'7','8','9'}};
 char jugador_actual = 'X';
 
 void mostrarTablero() {
-    system("clear"); // Usa "cls" si estás en Windows
+    system("clear"); 
     cout << "\n";
     cout << "     Juego de Tres en Línea (X - O)\n\n";
     for (int i = 0; i < 3; i++) {
