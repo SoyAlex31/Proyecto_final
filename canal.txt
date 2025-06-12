@@ -3,3 +3,5 @@ https://www.youtube.com/@Sadboy-pn8jw
 
 //pagina con datos de como hacerla 
 https://hackandmate.medium.com/haciendo-tetris-en-c-e53aa2584e03
+
+https://www.cs.unc.edu/~jbakita/teach/comp211-s23/a2/
