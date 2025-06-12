@@ -1,1 +1,5 @@
+//canal de youtube para apollo
 https://www.youtube.com/@Sadboy-pn8jw
+
+//pagina con datos de como hacerla 
+https://hackandmate.medium.com/haciendo-tetris-en-c-e53aa2584e03
